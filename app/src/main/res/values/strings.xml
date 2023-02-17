@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1Standalone</string>
+    <string name="firstname">Input First Name</string>
+    <string name="middlename">Input Middle Name</string>
+    <string name="lastname">Input Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="take_a_picture">TakePicture</string>
+</resources>
